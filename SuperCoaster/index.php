@@ -48,5 +48,8 @@
     </script>
     <script src="https://www.google-analytics.com/analytics.js" async></script>
   </body>
+  <footer>
+     <?php require_once '/footer.php'; ?>
+  </footer>
 
   </html>
