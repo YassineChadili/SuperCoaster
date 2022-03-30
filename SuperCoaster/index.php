@@ -33,10 +33,64 @@
           <nav>
             <a href="">Contructie</a>
             <a href="">Karretjes</a>
+            <a href="">Bedrijf zelf</a>
           </nav>
         </div>
       </div>
+      <div class="banner">
+        <div class="banner-text">
+          <p>Welkom op deze pagina!</p>
+        </div>
     </header>
+      <main>
+        <div class="attractie">
+          <div class="wrapper">
+            <h3><span>ATTR</span>ACTIES</h3>
+            <div class="attractie-items">
+              <div class="attractie-item">
+                <img src="img/attractie.jpg" alt="a" width="100">
+                <h4>Attractie</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+              </div>
+              <div class="attractie-item">
+                <img src="img/kar.jpg" alt="a" width="100">
+                <h4>Karretjes</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+              </div>
+              <div class="attractie-item">
+                <img src="img/constructie.jpg" alt="a" width="100">
+                <h4>Contructie</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+    <?php
+    require_once('footer.php')
+    ?>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <script src="js/vendor/modernizr-3.11.2.min.js"></script>
     <script src="js/plugins.js"></script>
     <script src="js/main.js"></script>
@@ -48,8 +102,4 @@
     </script>
     <script src="https://www.google-analytics.com/analytics.js" async></script>
   </body>
-  <footer>
-     <?php require_once '/footer.php'; ?>
-  </footer>
-
   </html>

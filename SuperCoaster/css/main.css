@@ -87,6 +87,74 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+   .wrapper{
+    width: 70%;
+    margin: 0 auto;
+  }
+
+   header{
+    text-transform: uppercase;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  .navbar{
+    background-color: yellow;
+  }
+  .navbar .wrapper{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .navbar nav{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+  }
+
+  .banner{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: blue;
+  }
+  .banner-text{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    background-color: blue;
+  }
+  .banner-text p{
+    display: inline;
+    margin: 2px;
+    color: white;
+  }
+
+  main h3 span{
+    border-bottom: 3px solid #fff;
+  }
+  main h3{
+    font-size: 2rem;
+    padding-top: 5%;
+    padding-bottom: 3%;
+  }
+  .attractie{
+    background: #4bcaff;
+    padding: 0 0 5% 0;
+    color: white;
+  }
+  .attractie .attractie-items{
+    display: flex;
+    justify-content: space-between;
+  }
+  .attractie-item{
+    width: 22%;
+  }
+  .attractie-item img, .services-item h4{
+    padding-bottom: 8%;
+  }
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
