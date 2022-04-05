@@ -34,8 +34,6 @@
             <a href="index.php">Home</a>
             <a href="">Contructie</a>
             <a href="karretjes.php">Karretjes</a>
-            <a href="">Contacten</a>
-            <a href="">Karretjes</a>
             <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
