@@ -31,9 +31,12 @@
         <div class="wrapper">
           <h1>SuperCoaster</h1>
           <nav>
+            <a href="index.php">Home</a>
             <a href="">Contructie</a>
-            <a href="">Karretjes</a>
+            <a href="karretjes.php">Karretjes</a>
             <a href="">Contacten</a>
+            <a href="">Karretjes</a>
+            <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
         </div>
