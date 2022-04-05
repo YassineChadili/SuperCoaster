@@ -11,10 +11,11 @@
    Base styles: opinionated defaults
    ========================================================================== */
 
-html {
+html{
   color: #222;
   font-size: 1em;
   line-height: 1.4;
+
 }
 
 /*
@@ -327,5 +328,11 @@ textarea {
   h3 {
     page-break-after: avoid;
   }
+}
+
+footer{
+  background-color: yellow;
+  text-align: center;
+
 }
 
