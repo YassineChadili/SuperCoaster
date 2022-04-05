@@ -37,13 +37,20 @@
             <a href="">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
-        </div>
+        <body>
       </div>
       <div class="banner">
         <div class="banner-text">
           <p>Contacten Pagina</p>
         </div>
     </header>
+    <div class="container">
+          <h2>TO DO CONTACTEN</h2>
+          <input type="text" class="field" placeholder="Your Name">
+          <input type="email" class="field" placeholder="Your email">
+          <input type="text" class="field" placeholder="Your Phone">
+          <textarea class="field" placeholder="Message" ></textarea>
+      </div>
 
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
