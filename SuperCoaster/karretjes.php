@@ -25,6 +25,24 @@
 <body>
 
   <!-- Add your site or application content here -->
+  <header>
+      <div class="navbar">
+        <div class="wrapper">
+          <h1>Karretjes</h1>
+          <nav>
+            <a href="index.php">Home</a>
+            <a href="">Contructie</a>
+            <a href="karretjes.php">Karretjes</a>
+            <a href="">Contacten</a>
+            <a href="">Bedrijf zelf</a>
+          </nav>
+        </div>
+      </div>
+      <div class="banner">
+        <div class="banner-text">
+          <p>Karretjes pagina</p>
+        </div>
+    </header>
 
 
 
