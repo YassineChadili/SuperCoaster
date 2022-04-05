@@ -26,27 +26,24 @@
 
   <!-- Add your site or application content here -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+  <header>
+      <div class="navbar">
+        <div class="wrapper">
+          <h1>Contacten</h1>
+          <nav>
+            <a href="index.php">Home</a>
+            <a href="">Contructie</a>
+            <a href="karretjes.php">Karretjes</a>
+            <a href="">Contacten</a>
+            <a href="">Bedrijf zelf</a>
+          </nav>
+        </div>
+      </div>
+      <div class="banner">
+        <div class="banner-text">
+          <p>Contacten Pagina</p>
+        </div>
+    </header>
 
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
