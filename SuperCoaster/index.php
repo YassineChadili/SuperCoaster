@@ -33,7 +33,7 @@
           <nav>
             <a href="">Contructie</a>
             <a href="">Karretjes</a>
-            <a href="">Contacten</a>
+            <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
         </div>
