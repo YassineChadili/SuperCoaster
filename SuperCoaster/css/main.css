@@ -155,6 +155,16 @@ textarea {
   .attractie-item img, .services-item h4{
     padding-bottom: 8%;
   }
+  .container{
+    background-color: yellow;
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   width: 100%;
+   height: 100%;
+   padding: 20px 100px;
+
 
 /* ==========================================================================
    Helper classes
