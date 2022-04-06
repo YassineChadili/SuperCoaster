@@ -31,9 +31,9 @@
           <h1>Karretjes</h1>
           <nav>
             <a href="index.php">Home</a>
-            <a href="">Contructie</a>
-            <a href="karretjes.php">Karretjes</a>
-            <a href="">Contacten</a>
+            <a href="contructie.php">Contructie</a>
+
+            <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
         </div>
@@ -42,7 +42,26 @@
         <div class="banner-text">
           <p>Karretjes pagina</p>
         </div>
+
+
     </header>
+
+    <body>
+      <img src="img/kar1.jpg" alt="a" width="350">
+      <img src="img/kar2.jpg" alt="a" width="350">
+      <img src="img/3.jpg" alt="a" width="350">
+
+
+    </body>
+
+
+
+<footer>
+    <?php
+    require_once('footer.php')
+    ?>
+
+  </footer>
 
 
 
