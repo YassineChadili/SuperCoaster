@@ -173,11 +173,12 @@ textarea {
  }
 
  .contructie{
-    background: url("../img/constructie.jpg");
+    background: url("../img/constr.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     padding: 0 0 5% 0;
     color: white;
+    margin: 5px;
   }
   .contructie .contructie-items{
     display: flex;
@@ -188,6 +189,15 @@ textarea {
   }
   .contructie-item img, .contructie-item h4{
     padding-bottom: 8%;
+  }
+
+  .karretjes{
+    background: url("../img/3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0 0 5% 0;
+    color: white;
+    margin: 5px;
   }
 
   footer{
