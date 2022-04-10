@@ -51,17 +51,17 @@
             <h3><span>ATTR</span>ACTIES</h3>
             <div class="attractie-items">
               <div class="attractie-item">
-                <img src="img/attractie.jpg" alt="a" width="100">
+                <img src="img/acht.jpg" alt="a" width="100">
                 <h4>Attractie</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>
               <div class="attractie-item">
-                <img src="img/kar.jpg" alt="a" width="100">
+                <img src="img/kar1.jpg" alt="a" width="100">
                 <h4>Karretjes</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>
               <div class="attractie-item">
-                <img src="img/constructie.jpg" alt="a" width="100">
+                <img src="img/constr.jpg" alt="a" width="100">
                 <h4>Contructie</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>
