@@ -29,13 +29,12 @@
     <header>
       <div class="navbar">
         <div class="wrapper">
+          <img src="img/logo.png" alt="a" width="100">
           <h1>SuperCoaster</h1>
           <nav>
             <a href="index.php">Home</a>
-            <a href="">Contructie</a>
+            <a href="contructie.php">Contructie</a>
             <a href="karretjes.php">Karretjes</a>
-            <a href="">Contacten</a>
-            <a href="">Karretjes</a>
             <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
@@ -43,7 +42,7 @@
       </div>
       <div class="banner">
         <div class="banner-text">
-          <p>Welkom op deze pagina!</p>
+          <p>Onze nieuwe achtbaantechniek heet MagnaDrive. Door middel van een aantal onderdelen die ons ontwikkelteam uitgevonden heeft, kunnen we een achtbaan produceren die tot 5-10% sneller kan gaan dan de snelste achtbaan tot nu toe, enkele graden scherpte kan toevoegen aan bochten, en ook nog langer meegaat dan achtbanen gemaakt van gebruikelijke onderdelen. Het mooiste is nog dat de onderdelen niet veel duurder zullen zijn dan onze concurrentie. Vanwege de scherpere bochten is in veel gevallen ook de achtbaan compacter te maken, wat ook weer ruimte vrijmaakt voor andere attracties.</p>
         </div>
     </header>
       <main>
@@ -52,17 +51,17 @@
             <h3><span>ATTR</span>ACTIES</h3>
             <div class="attractie-items">
               <div class="attractie-item">
-                <img src="img/attractie.jpg" alt="a" width="100">
+                <img src="img/acht.jpg" alt="a" width="100">
                 <h4>Attractie</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>
               <div class="attractie-item">
-                <img src="img/kar.jpg" alt="a" width="100">
+                <img src="img/kar1.jpg" alt="a" width="100">
                 <h4>Karretjes</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>
               <div class="attractie-item">
-                <img src="img/constructie.jpg" alt="a" width="100">
+                <img src="img/constr.jpg" alt="a" width="100">
                 <h4>Contructie</h4>
                 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
               </div>

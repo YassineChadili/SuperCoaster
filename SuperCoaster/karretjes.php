@@ -1,3 +1,6 @@
+
+
+
 <!doctype html>
 <html class="no-js" lang="">
 
@@ -31,18 +34,44 @@
           <h1>Karretjes</h1>
           <nav>
             <a href="index.php">Home</a>
-            <a href="">Contructie</a>
+            <a href="contructie.php">Contructie</a>
             <a href="karretjes.php">Karretjes</a>
-            <a href="">Contacten</a>
+            <a href="contacten.php">Contacten</a>
             <a href="">Bedrijf zelf</a>
           </nav>
         </div>
       </div>
       <div class="banner">
         <div class="banner-text">
-          <p>Karretjes pagina</p>
+          <p>Met onze MagnaCarts die ook speciaal werken op onze nieuw ontwikkelde MagnaAlloy onderdelen, kan elk pretpark het chassis naar wens aanpassen. Wij hebben een frame ontwikkeld die wij zo klein mogelijk hebben gehouden, zodat de rest van de kar helemaal zelf door het team ontworpen en ontwikkeld kan worden. Ook leveren wij de digitale bestanden waar deze ontwerpen op gebaseerd kunnen worden, zodat het team zo snel mogelijk aan de slag kan gaan unieke ontwerpen te creëren. Omdat ook deze karretjes gebruik maken van MagnaAlloy, zijn ze dus ook bestand tegen de extra G-krachten die deze techniek mogelijk maakt. Zo zijn onze producten dus breed inzetbaar, en zorgen wij voor de beste vooruitgang in de achtbaantechniek van het afgelopen decennia.</p>
         </div>
     </header>
+    <main>
+        <div class="karretjes">
+          <div class="wrapper">
+            <h3><span>KAR</span>RETJES</h3>
+            <div class="contructie-items">
+              <div class="contructie-item">
+               <h4>Karretjes</h4>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit</p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    
+
+
+
+
+<footer>
+    <?php
+    require_once('footer.php')
+    ?>
+
+  </footer>
 
 
 
