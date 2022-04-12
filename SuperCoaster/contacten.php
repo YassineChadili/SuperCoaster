@@ -44,7 +44,9 @@
           <p>Contacten Pagina</p>
         </div>
     </header>
-    <div class="container">
+    <div class="contact-box">
+    <div class="left"></div>
+    <div clss="right">
           <h2>TO DO CONTACTEN</h2>
           <input type="text" class="field" placeholder="Your Name">
           <input type="email" class="field" placeholder="Your email">
