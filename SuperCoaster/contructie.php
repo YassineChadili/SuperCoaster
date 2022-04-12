@@ -28,6 +28,7 @@
   <header>
       <div class="navbar">
         <div class="wrapper">
+           <img src="img/logo-big-v4.png" alt="a" width="150">
           <h1>Contructie</h1>
           <nav>
             <a href="index.php">Home</a>
