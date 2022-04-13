@@ -93,8 +93,12 @@ textarea {
     margin: 0 auto;
   }
 
+  *{
+  margin: 0;
+  padding: 0;
+}
+
    header{
-    text-transform: uppercase;
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -144,6 +148,7 @@ textarea {
     background: #4bcaff;
     padding: 0 0 5% 0;
     color: white;
+    margin: 5px;
   }
   .attractie .attractie-items{
     display: flex;
@@ -156,7 +161,7 @@ textarea {
     padding-bottom: 8%;
   }
   .container{
-    background-color: yellow;
+   background-color: yellow;
    position: relative;
    display: flex;
    justify-content: center;
@@ -175,7 +180,41 @@ textarea {
   background: url("img/attractie.jpg") no-repeat center;
   background-size: cover;
   z-index: -1;
-}
+ }
+
+ .contructie{
+    background: url("../img/constr.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0 0 5% 0;
+    color: white;
+    margin: 5px;
+  }
+  .contructie .contructie-items{
+    display: flex;
+    justify-content: space-between;
+  }
+  .contructie-item{
+    width: 22%;
+  }
+  .contructie-item img, .contructie-item h4{
+    padding-bottom: 8%;
+  }
+
+  .karretjes{
+    background: url("../img/3.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 0 0 5% 0;
+    color: white;
+    margin: 5px;
+  }
+
+  footer{
+    margin: 16px;
+  }
+
+
 /* ==========================================================================
    Helper classes
    ========================================================================== */
