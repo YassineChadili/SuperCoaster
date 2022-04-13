@@ -29,7 +29,7 @@
     <header>
       <div class="navbar">
         <div class="wrapper">
-          <img src="img/logo.png" alt="a" width="100">
+          <img src="img/logo-big-v4.png" alt="a" width="150">
           <h1>SuperCoaster</h1>
           <nav>
             <a href="index.php">Home</a>

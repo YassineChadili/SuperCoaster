@@ -29,6 +29,7 @@
   <header>
       <div class="navbar">
         <div class="wrapper">
+           <img src="img/logo-big-v4.png" alt="a" width="150">
           <h1>Contacten</h1>
           <nav>
             <a href="index.php">Home</a>
@@ -44,7 +45,9 @@
           <p>Contacten Pagina</p>
         </div>
     </header>
-    <div class="container">
+    <div class="contact-box">
+    <div class="left"></div>
+    <div clss="right">
           <h2>TO DO CONTACTEN</h2>
           <input type="text" class="field" placeholder="Your Name">
           <input type="email" class="field" placeholder="Your email">
