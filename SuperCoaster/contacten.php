@@ -58,6 +58,11 @@
             <input id= "email"type="email" name="email" placeholder="testemail@.com">
           </div>
 
+       <div class="form-group">
+        <label for="titel">Titel:</label>
+        <input id="titel" type="text" name="titel">
+      </div>
+
           <div class="form-group">
             <label for="message">Bericht:</label>
               <textarea name="message" id="message" cols="30" rows="10"></textarea>
