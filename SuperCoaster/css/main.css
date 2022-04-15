@@ -210,6 +210,17 @@ textarea {
     margin: 5px;
   }
 
+  .form{
+     background: #4bcaff;
+     display: flex;
+     justify-content: center;
+     padding: 60px;
+  }
+
+  .form-group{
+    margin: 15px;
+  }
+
   footer{
     margin: 16px;
   }
